@@ -1,10 +1,10 @@
 class Hello
   def say_hello
-    puts "Hello!"
+    puts "Hello"
   end
 
   def say_goodbye
-    puts "Goodbye!"
+    puts "Goodbye"
   end
 end
 
