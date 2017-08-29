@@ -1,6 +1,6 @@
 class Hello
   def initialize
-    puts "Initialize called."
+    puts "Initializing object"
   end
 
   def say_hello
