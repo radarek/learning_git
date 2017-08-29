@@ -10,10 +10,6 @@ class Hello
   def say_goodbye
     puts "Goodbye"
   end
-
-  def say_hi
-    puts "Hi"
-  end
 end
 
 hello = Hello.new
