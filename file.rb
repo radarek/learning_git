@@ -19,8 +19,8 @@ end
 def say_everything
   hello = Hello.new
   hello.say_hello
-  hello.say_goodbye
   hello.say_hi
+  hello.say_goodbye
 end
 
 say_everything
