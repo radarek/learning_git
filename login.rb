@@ -1,2 +1,2 @@
 puts "Please, enter credentials:"
-login = gets
+login = gets.chomp
