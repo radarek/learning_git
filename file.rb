@@ -20,7 +20,11 @@ class Hello
   end
 end
 
-hello = Hello.new
-hello.say_hello
-hello.say_goodbye
-hello.say_hi
+def say_everything
+  hello = Hello.new
+  hello.say_hello
+  hello.say_goodbye
+  hello.say_hi
+end
+
+say_everything
